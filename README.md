@@ -2,7 +2,7 @@
 
 this is a work in progress
 
-Artistic Director - Mirjam Dalire
+Artistic Director - Mirjam Dalire 
 <br/>
 Technical Team -
 KoloWn,
@@ -12,14 +12,14 @@ Mark omega
 browser-based Projects by
 artists and collectives working in the Visayas.
 
-**PowerPlant** by Luyo_Space
+**PowerPlant** by Luyo_Space (Northern Cebu)
 <br/>
-**Huling Healing** by Kanadey
+**Huling Healing** by Kanadey (Siquijor)
 <br/>
-**Lutoonon** by Gab Ferrer
+**Lutoonon** by Gab Ferrer (Dumaguete)
 <br/>
 **Tropical Depression** 
-by KoloWn, Mirjam Dalire, RV Sanchez and Mark Omega
+by KoloWn, Mirjam Dalire (Siquijor), RV Sanchez(Southern Leyte) and Mark Omega (Capiz)
 <br/>
 
 We will be using Sveltkit, Typescript, and Tailwind CSS for the backbone
