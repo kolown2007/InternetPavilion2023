@@ -3,8 +3,12 @@
 this is a work in progress
 
 Artistic Director - Mirjam Dalire
-Technical Head - KoloWn
-
+<br/>
+<br/>
+Technical Team -
+KoloWn,
+Mark omega
+<br/>
 browser-based Projects by
 artists and collectives working in the Visayas.
 
